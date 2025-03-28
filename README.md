@@ -1,3 +1,3 @@
 # OSproject
-##  1 brief introduction
+##  1.brief introduction
 this is a college student project about OS,further progress waiting for discovering...
